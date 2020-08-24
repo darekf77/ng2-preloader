@@ -1,4 +1,22 @@
 {
+  "tnp": {
+    "resources": [],
+    "overrided": {
+      "linkedFolders": [],
+      "ignoreDepsPattern": [
+        "*"
+      ],
+      "includeAsDev": [],
+      "includeOnly": [],
+      "dependencies": {}
+    },
+    "linkedProjects": [],
+    "libReleaseOptions": {
+      "nodts": false,
+      "obscure": false,
+      "ugly": false
+    }
+  },
   "name": "ng2-preloader",
   "version": "0.0.2",
   "description": "Simple preloader for angular2 apps",
@@ -20,5 +38,7 @@
   "bugs": {
     "url": "https://github.com/darekf77/ng2-preloader/issues"
   },
-  "homepage": "https://github.com/darekf77/ng2-preloader#readme"
+  "homepage": "https://github.com/darekf77/ng2-preloader#readme",
+  "dependencies": {},
+  "devDependencies": {}
 }
