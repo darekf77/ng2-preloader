@@ -34,7 +34,7 @@
     ]
   },
   "name": "ng2-preloader",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Simple preloader for angular2 apps",
   "main": "karma.conf.js",
   "scripts": {
@@ -206,7 +206,7 @@
     "mkdirp": "0.5.1",
     "mocha": "5.2.0",
     "moment": "2.22.2",
-    "morphi": "~4.0.20",
+    "morphi": "~4.0.21",
     "ng-modal-lib": "0.0.6",
     "ng-packagr": "5.7.1",
     "ng-talkback": "~2.4.15",
@@ -224,7 +224,7 @@
     "ngx-toastr": "11.2.1",
     "ngx-wig": "8.0.0",
     "node-cli-test": "0.0.2",
-    "node-cli-tester": "~0.0.7",
+    "node-cli-tester": "~0.0.8",
     "node-localstorage": "2.1.6",
     "node-notifier": "6.0.0",
     "node-sass": "4.12.0",
