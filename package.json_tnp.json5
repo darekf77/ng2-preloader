@@ -1,7 +1,5 @@
 {
   "resources": [],
-  "version": "v2",
-  "type": "angular-lib",
   "overrided": {
     "linkedFolders": [],
     "ignoreDepsPattern": [
@@ -17,7 +15,9 @@
     "obscure": false,
     "ugly": false
   },
-  "private": false,
+  "version": "v3",
+  "type": "isomorphic-lib",
+  "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
