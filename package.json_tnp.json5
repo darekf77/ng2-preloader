@@ -1,5 +1,6 @@
 {
   "resources": [],
+
   "overrided": {
     "linkedFolders": [],
     "ignoreDepsPattern": [
@@ -9,27 +10,35 @@
     "includeOnly": [],
     "dependencies": {}
   },
+
   "linkedProjects": [],
+  'linkedRepos': [],
+
   "libReleaseOptions": {
     "nodts": false,
     "obscure": false,
     "ugly": false
   },
+
   "version": "v3",
   "type": "isomorphic-lib",
   "private": true,
+
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+
   "description": "Simple preloader for angular2 apps",
   "license": "MIT",
   "author": "Dariusz Filipiak",
   "homepage": "https://github.com/darekf77/ng2-preloader#readme",
   "main": "karma.conf.js",
+
   "keywords": [
     "preloader",
     "loader",
     "angular2"
   ],
-  "workerPlugins": {}
+
+  "workerPlugins": {},
 }
