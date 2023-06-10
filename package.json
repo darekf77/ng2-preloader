@@ -1,8 +1,47 @@
 {
+  "tnp": {
+    "resources": [],
+    "overrided": {
+      "linkedFolders": [],
+      "ignoreDepsPattern": [
+        "*"
+      ],
+      "includeAsDev": [],
+      "includeOnly": [],
+      "dependencies": {},
+      "npmFixes": []
+    },
+    "linkedProjects": [],
+    "smartContainerBuildTarget": "",
+    "linkedRepos": [],
+    "libReleaseOptions": {
+      "nodts": false,
+      "obscure": false,
+      "ugly": false,
+      "includeNodeModules": false
+    },
+    "smartContainerTarget": "",
+    "type": "isomorphic-lib",
+    "version": "v3",
+    "private": true,
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "description": "Simple preloader for angular2 apps",
+    "license": "MIT",
+    "author": "Dariusz Filipiak",
+    "homepage": "https://github.com/darekf77/ng2-preloader#readme",
+    "main": "karma.conf.js",
+    "keywords": [
+      "preloader",
+      "loader",
+      "angular2"
+    ],
+    "workerPlugins": {}
+  },
   "name": "ng2-preloader",
   "version": "1.0.17",
   "description": "Simple preloader for angular2 apps",
-  "main": "karma.conf.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
